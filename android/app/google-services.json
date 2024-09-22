@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "590621437679",
+    "project_id": "trilo-18d4c",
+    "storage_bucket": "trilo-18d4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590621437679:android:67af65a5a29c8182fb751a",
+        "android_client_info": {
+          "package_name": "com.markapp.trilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590621437679-q68a9sb61qht4msokuf58ng2pn4df1lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markapp.trilo",
+            "certificate_hash": "c26d517fc3a42275d1c31a9997a1d8549f6f8ace"
+          }
+        },
+        {
+          "client_id": "590621437679-sg03ilodk9cpf5mp1gf0gq5h6ko0rp8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmCH40wgmf6HNnnygczHhyc60UCf9Ir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590621437679-sg03ilodk9cpf5mp1gf0gq5h6ko0rp8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590621437679-aeknfnd4caflu5go9l9hncebve8df52q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.markappghana.trilo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590621437679:android:3f94cea73ba1cfe9fb751a",
+        "android_client_info": {
+          "package_name": "com.markapp_ghana.trilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590621437679-jvu70dch52bpo866flqtopdqedaimvsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.markapp_ghana.trilo",
+            "certificate_hash": "c26d517fc3a42275d1c31a9997a1d8549f6f8ace"
+          }
+        },
+        {
+          "client_id": "590621437679-sg03ilodk9cpf5mp1gf0gq5h6ko0rp8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmCH40wgmf6HNnnygczHhyc60UCf9Ir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590621437679-sg03ilodk9cpf5mp1gf0gq5h6ko0rp8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590621437679-aeknfnd4caflu5go9l9hncebve8df52q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.markappghana.trilo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590621437679:android:1e5ce76bd8e9f835fb751a",
+        "android_client_info": {
+          "package_name": "com.markapp_ghana.trilo_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590621437679-sg03ilodk9cpf5mp1gf0gq5h6ko0rp8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmCH40wgmf6HNnnygczHhyc60UCf9Ir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590621437679-sg03ilodk9cpf5mp1gf0gq5h6ko0rp8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590621437679-aeknfnd4caflu5go9l9hncebve8df52q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.markappghana.trilo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
